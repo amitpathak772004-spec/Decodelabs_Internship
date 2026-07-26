@@ -11,7 +11,7 @@ DecodeLabs-Internship/
 |   +-- Data_Cleaning_Report.docx
 +-- Task2/
     +-- EDA Report.xlsx
-    +-- EDA_Report_Nikhil_Choubey.docx
+    +-- EDA_Report_Amit_Pathak.docx
 ```
 
 ## Tasks
@@ -32,7 +32,7 @@ Includes the EDA workbook and a written report summarizing the exploratory analy
 Files:
 
 - `EDA Report.xlsx`
-- `EDA_Report_Nikhil_Choubey.docx`
+- `EDA_Report_Amit_Pathak.docx`
 
 ## Notes
 
